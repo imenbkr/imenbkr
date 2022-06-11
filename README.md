@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **imen.bakir3@gmail.com**
+- 📫 How to reach me **imenbakir3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B4yXfPhTkeWNO96si4OJXO_mCSjQDPf9/view?usp=sharing](https://drive.google.com/file/d/1B4yXfPhTkeWNO96si4OJXO_mCSjQDPf9/view?usp=sharing)
+- 📄 Know about my experiences: [Imen's Resume](https://drive.google.com/file/d/1BxozVuX2ygwY9dZG17SuBMtZQQhJSJTC/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a potterhead ⚯⚡**
 
