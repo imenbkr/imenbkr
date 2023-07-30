@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imen</h1>
 <h3 align="center">A second year Data Engineering student</h3>
 
-- 🌱 I’m currently learning **Deep Learning and Software Programming**
+- 🌱 I’m currently learning **Natural Language Processing and Generative AI**
 
 - 📫 How to reach me **imenbakir3@gmail.com**
 
