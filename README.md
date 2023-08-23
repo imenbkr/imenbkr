@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **imenbakir3@gmail.com**
 
-- 📄 Know about my experiences [Imen's Resume](https://drive.google.com/file/d/1C_0cGaCovHilUdPhImGjdkClK5r0nHXQ/view?usp=sharing)
+- 📄 Know about my experiences [Imen's Resume](https://drive.google.com/file/d/1ZRn00AJVZpSNfA-So3RAOPSD5fqvKr8p/view?usp=sharing).
 
 - ⚡ Fun fact **I practice kpop dances on my free time**
 
