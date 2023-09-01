@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imen</h1>
-<h3 align="center">A second year Data Engineering student</h3>
+<h3 align="center">A final year Data Engineering student</h3>
+<h3 align="center">I'm open for intern roles in <b>Data Science</b> or <b>Data Engineering</b></h3>
 
 - 🌱 I’m currently learning **Natural Language Processing and Generative AI**
 
