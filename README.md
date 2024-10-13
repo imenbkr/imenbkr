@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **imenbakir3@gmail.com**
 
-- 📄 Know about my experiences [Imen's Resume](https://drive.google.com/file/d/10I8qrWvmOKCIY-n2hdUhKC-Eo2czSXsU/view?usp=drive_link).
+- 📄 Know about my experiences [Imen's Resume](https://drive.google.com/file/d/1911LwEtK68K421rKY7j18x3tqadDgDLg/view?usp=sharing).
 
 - ⚡ Fun fact **I'm an avid anime lover**
 
