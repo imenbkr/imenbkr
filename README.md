@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, I'm Imen</h1>
-<h3 align="center">A Data Engineering Graduate</h3>
-<h3 align="center">I'm open for roles in <b>Data Science</b> , <b>AI</b> or <b>Data Engineering</b></h3>
+# Hi, I'm Imen 👋
+**Data & MLOps Engineer**
+I build data pipelines, ML anomaly detection on observability data, and LLM evaluation/observability.
 
-- 🌱 I’m currently learning **Natural Language Processing and Generative AI**
+### 🔧 Featured projects
+| Project | What it shows | Stack |
+|---|---|---|
+| [Azure Data Warehouse](https://github.com/imenbkr/Building-an-Azure-Data-Warehouse-for-Bike-Data-Analytics) | PostgreSQL → ADLS → Synapse star schema | Azure Synapse, ADLS Gen2, T-SQL |
+| [dbt + Snowflake + Airflow](https://github.com/imenbkr/snowflake-airflow-project) | ELT with tests, docs, lineage, daily DAG | dbt, Snowflake, Airflow |
+| [Power BI Dashboards](https://github.com/imenbkr/Power-Bi-dashboards) | HR attrition & financial reporting | Power BI, DAX |
+| [Seismic Detection (NASA Space Apps)](https://github.com/imenbkr/Seismic-Detection-AstroAI) | ML on imbalanced signal data | scikit-learn, SMOTE |
+| [Medicine Fraud Detection](https://github.com/imenbkr/Fraud-Detection-Project) | OCR + NER + similarity matching | OpenCV, spaCy, Streamlit |
 
-- 📫 How to reach me **imenbakir3@gmail.com**
+### 🧰 Stack
+Python · SQL · PySpark · Snowflake · dbt · Airflow · Databricks · Azure · Docker · Kubernetes · GitLab CI · Grafana · Prometheus · OpenTelemetry · MLflow · DVC · LangGraph · Arize/Phoenix
 
-- 📄 Know about my experiences [Imen's Resume](https://drive.google.com/file/d/1911LwEtK68K421rKY7j18x3tqadDgDLg/view?usp=sharing).
+### 📜 Certifications
+[Azure Data Fundamentals](https://www.credly.com/badges/f7cda01e-ce8a-40f2-9cff-a7744c8779c2/linked_in_profile) · [Azure AI Fundamentals](https://www.credly.com/badges/1b27940d-8047-4fad-8cde-23a423fcdad9/linked_in_profile) · [Harness CI](https://www.credly.com/badges/0b27b1f8-9d02-4662-8abe-cbf333bc7ed6/public_url) · [Harness CD & GitOps](https://www.credly.com/badges/1a0a5a10-cb4f-405a-bfaa-cd3d5c1f44b2/public_url) · [Grafana Observability](https://grafanalabs.docebosaas.com/partners/share/gamification/badges/external/86b0bc2e-957b-48a6-8cd1-3931a93bc25e?lang=en)
 
-- ⚡ Fun fact **I'm an avid anime lover**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imen-bakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imen-bakir" height="30" width="40" /></a>
-<a href="https://kaggle.com/imenbakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imenbakir" height="30" width="40" /></a>
-<a href="https://medium.com/@imenbakir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imenbakir3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/faith9916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faith9916" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/imen-bakir) · imenbakir3@gmail.com · [Kaggle](https://kaggle.com/imenbakir) · [Medium](https://medium.com/@imenbakir3)
