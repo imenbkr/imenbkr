@@ -5,7 +5,7 @@ I build data pipelines, ML anomaly detection on observability data, and LLM eval
 ### 🔧 Featured projects
 | Project | What it shows | Stack |
 |---|---|---|
-| [Azure Data Warehouse](https://github.com/imenbkr/Building-an-Azure-Data-Warehouse-for-Bike-Data-Analytics) | PostgreSQL → ADLS → Synapse star schema | Azure Synapse, ADLS Gen2, T-SQL |
+| [Azure Data Warehouse](https://github.com/imenbkr/Building-an-Azure-Data-Warehouse-for-Bike-Data-Analytics) | PostgreSQL → Azure Data Lake Storage (ADLS) → Synapse star schema | Azure Synapse, ADLS Gen2, T-SQL |
 | [dbt + Snowflake + Airflow](https://github.com/imenbkr/snowflake-airflow-project) | ELT with tests, docs, lineage, daily DAG | dbt, Snowflake, Airflow |
 | [Power BI Dashboards](https://github.com/imenbkr/Power-Bi-dashboards) | HR attrition & financial reporting | Power BI, DAX |
 | [Seismic Detection (NASA Space Apps)](https://github.com/imenbkr/Seismic-Detection-AstroAI) | ML on imbalanced signal data | scikit-learn, SMOTE |
